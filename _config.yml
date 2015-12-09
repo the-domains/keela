@@ -1,0 +1,28 @@
+name: keela
+favicon: null
+layout_spectrum: 0.7317519397474825
+typography_spectrum: 0.48712166282348335
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.376705888658762
+  lightness: 0.4602768018376082
+  saturation: 0.5477247328963131
+  rhythmicContrast: 0.5105221958365291
+purpose: []
